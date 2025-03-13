@@ -34,19 +34,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuriphad&theme=radical" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayuriphad&theme=radical" alt="GitHub Trophies" />
-</p>
 
----
-
-## 🐍 Snake Contribution Graph
-<p align="center">
-  <img src="https://github.com/mayuriphad/mayuriphad/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ## 📫 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MayuriPhad-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mayuriphad/)
