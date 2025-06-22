@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="waving hand" />
 </p>
 
-<h1 align="center">Hi there! I'm <strong>Mayuri Phad</strong> 👩‍💻</h1>
+<h1 align="center">
+  Hello, I'm <span style="color:#f769b7"><strong>Mayuri Phad</strong></span> 👩‍💻
+</h1>
 
 <h3 align="center">✨ Machine Learning Engineer | Creative Frontend Developer | Full Stack Web Innovator 🚀</h3>
 
