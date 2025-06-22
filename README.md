@@ -36,13 +36,20 @@
 - 🏅 Presented at prestigious conferences like:
   - IEEE ICSCNA, INCIP, and PUNECON (India)
 
-## 🔧 Tech Stack
+## 🚀 My Tech Toolbox
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Languages+%26+Frameworks+I+Love+to+Use" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,tensorflow,keras,opencv,flask,streamlit,react,nodejs,express,html,css,js,java,c,mongodb,mysql,sqlite,git,vscode" />
 </p>
 
----
+<p align="center">
+  🧠 Python • 💻 JavaScript • ⚙️ Backend • 🎨 Frontend • 📦 Databases • 🧪 AI/ML • 🚀 Deployment
+</p>
+
 
 ## 📊 GitHub Stats
 
