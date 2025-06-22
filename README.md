@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=ffffff&center=true&vCenter=true&width=600&lines=Hello+World!+I%27m+Mayuri+Phad;AI+Engineer+%7C+Full+Stack+Web+Developer;Creating+Smart+Solutions+with+Clean+Code;Let%27s+Innovate+Together!+🚀" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=ffffff&center=true&vCenter=true&width=700&lines=Hello+World!+I%27m+Mayuri+Phad;AI+Engineer+%7C+Full+Stack+Web+Developer;Clean+Code+%26+Smart+Solutions;Let%27s+Innovate+Together!+🚀" alt="Typing Intro" />
 </h1>
 
+<h3 align="center">🚀 Machine Learning Engineer | Creative Frontend Developer | Full Stack Web Innovator</h3>
 
-
-
+<br/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=FF61A6&width=600&lines=Welcome+to+my+profile!;AI+Explorer+%F0%9F%A4%96;Loves+building+cool+ML+Projects+%F0%9F%9A%80;Let's+connect+%F0%9F%91%8B" alt="Typing SVG" />
@@ -124,4 +124,5 @@
     <img src="https://img.icons8.com/clouds/100/github.png" alt="GitHub" height="48"/>
   </a>
 </p>
+
 
