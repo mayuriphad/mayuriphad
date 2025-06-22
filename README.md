@@ -12,28 +12,29 @@
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech IT @ VIIT Pune | Diploma @ GRWPL Latur
-- 🤖 Currently building cool things in **Machine Learning, Deep Learning, and AI Optimization**
-- 🌱 Learning & exploring: `Transfer Learning`, `Generative AI`, `NLP`, `DL Model Deployment`
-- 📬 Email me at: [mayuriphad5@gmail.com](mailto:mayuriphad5@gmail.com)
-- 💬 Ask me about anything related to AI, Full Stack, or Tech Hacks!
-- 🧠 Pronouns: *She/Her*
-- 🎯 Fun fact: I believe **clean code + creative UI + smart ML = magic! ✨**
+- 🤖 Passionate about **Machine Learning, Deep Learning, and AI Optimization**
+- 🌱 Constantly exploring: `Transfer Learning`, `Generative AI`, `NLP`, `DL Deployment`
+- 📬 Contact: [mayuriphad5@gmail.com](mailto:mayuriphad5@gmail.com)
+- 💬 Let’s chat about AI, Full Stack, or your next big idea!
+- ✨ Fun fact: I believe **clean code + creative UI + smart ML = 💡 magic!**
 
 ---
 
 
 ## 🏆 Highlights
 
-- 📚 **3 IEEE Publications** on:
-  - 🔹 Driver Drowsiness Detection
-  - 🔹 Medicinal Plant Identification
-  - 🔹 Violence Detection in Surveillance Systems
-- 💡 Created smart systems like:
-  - 🛒 **Smart Shopping Cart**
-  - 🌿 **Medicinal Plant Identifier**
-  - 💬 **Hinglish to English NLP App**
+- 📚 **3 IEEE Publications**:
+  - 🔹 [**Driver Drowsiness Detection Using MobileNetV2 and Deep Learning**](https://ieeexplore.ieee.org/abstract/document/10864200)
+  - 🔹 [**Automatic Identification of Medicinal Plants with Transfer Learning**](https://ieeexplore.ieee.org/abstract/document/11020498)
+  - 🔹 [**Violence Detection in Surveillance Systems Using MobileNetV2**](https://ieeexplore.ieee.org/abstract/document/10894987)
 
----
+- 🚀 Built impactful real-world systems:
+  - 🛒 **Smart Shopping Cart** (IoT + Android + Firebase)
+  - 🌿 **Medicinal Plant Identifier** (MobileNetV2 + Keras)
+  - 💬 **Hinglish to English NLP App** (Flask + SQLite + JS)
+
+- 🏅 Presented at prestigious conferences like:
+  - IEEE ICSCNA, INCIP, and PUNECON (India)
 
 ## 🔧 Tech Stack
 
@@ -52,13 +53,22 @@
 </p>
 
 ---
-
-## 📫 Connect with Me
+## 💬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mayuriphad/"><img src="https://img.shields.io/badge/LinkedIn-Mayuri%20Phad-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:mayuriphad5@gmail.com"><img src="https://img.shields.io/badge/Gmail-mayuriphad5%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/mayuriphad"><img src="https://img.shields.io/badge/GitHub-MayuriPhad-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/mayuriphad/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mayuri%20Phad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mayuriphad5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-mayuriphad5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/mayuriphad">
+    <img src="https://img.shields.io/badge/GitHub-MayuriPhad-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </p>
 
 ---
@@ -67,4 +77,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<p align="center">✨ *Thanks for stopping by! Let’s innovate together.* 🚀</p>
+<p align="center">
+  ✨ <i>Thanks for stopping by! Let’s innovate and build amazing things together.</i> 🚀
+</p>
