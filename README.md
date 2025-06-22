@@ -55,32 +55,24 @@
 ---
 ## 💬 Connect with Me
 
-<p align="center">
+<div align="center">
 
   <a href="https://www.linkedin.com/in/mayuriphad/" target="_blank">
-    <img src="https://media.giphy.com/media/xUPGcgtKxm3bAavPOI/giphy.gif" width="40" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Let's Connect!-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mayuri%20Phad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-
-  <br><br>
 
   <a href="mailto:mayuriphad5@gmail.com" target="_blank">
-    <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="40" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Say Hi!-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-mayuriphad5@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
-
-  <br><br>
 
   <a href="https://github.com/mayuriphad" target="_blank">
-    <img src="https://media.giphy.com/media/3o7abAhXyPjd8PZMec/giphy.gif" width="40" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-MayuriPhad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 
-</p>
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="180" alt="Waving Robot" />
-</p>
+<br>
+
+<div align="center">
+  <h3>👋 Let's connect, collaborate & create awesome things together!</h3>
+</div>
