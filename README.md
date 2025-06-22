@@ -107,19 +107,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuriphad&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 
-
 ## 💬 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayuriphad/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:mayuriphad5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mayuriphad" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" />
   </a>
 </p>
+
