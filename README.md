@@ -36,23 +36,37 @@
 - 🏅 Presented at prestigious conferences like:
   - IEEE ICSCNA, INCIP, and PUNECON (India)
 
+
+
 ## 🚀 My Tech Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,opencv,flask,streamlit" />
-  <br>
+  <br />
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,javascript,java,c" />
-  <br>
+  <br />
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,vscode" />
 </p>
 
-<p align="center">
-  🧠 <b>AI/ML:</b> Python, TensorFlow, Keras, OpenCV, Flask, Streamlit  
-  <br>💻 <b>Frontend:</b> React.js, HTML, CSS, JavaScript  
-  <br>⚙️ <b>Backend:</b> Node.js, Express.js, Java, C  
-  <br>🗄 <b>Databases:</b> MySQL, MongoDB, SQLite  
-  <br>🛠 <b>Tools:</b> Git, GitHub, VS Code
-</p>
+<div align="center">
+
+### 🧠 AI/ML & Data
+`Python` • `TensorFlow` • `Keras` • `OpenCV` • `Flask` • `Streamlit`
+
+### 🎨 Frontend Development
+`React.js` • `HTML5` • `CSS3` • `JavaScript`
+
+### ⚙️ Backend & Server
+`Node.js` • `Express.js` • `Java` • `C`
+
+### 🗄️ Databases
+`MySQL` • `MongoDB` • `SQLite`
+
+### 🛠 Tools & Platforms
+`Git` • `GitHub` • `VS Code`
+
+</div>
+
 
 
 
