@@ -38,18 +38,22 @@
 
 ## 🚀 My Tech Toolbox
 
-## 🚀 Tech Stack
-
 <p align="center">
-  <img src="assets/gifs/html5.gif" alt="HTML5" width="50"/>
-  <img src="assets/gifs/css3.gif" alt="CSS3" width="50"/>
-  <img src="assets/gifs/javascript.gif" alt="JavaScript" width="50"/>
-  <img src="assets/gifs/react.gif" alt="React" width="50"/>
-  <img src="assets/gifs/nodejs.gif" alt="Node.js" width="50"/>
-  <!-- Add more GIFs as needed -->
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,opencv,flask,streamlit" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,javascript,java,c" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,vscode" />
 </p>
 
----
+<p align="center">
+  🧠 <b>AI/ML:</b> Python, TensorFlow, Keras, OpenCV, Flask, Streamlit  
+  <br>💻 <b>Frontend:</b> React.js, HTML, CSS, JavaScript  
+  <br>⚙️ <b>Backend:</b> Node.js, Express.js, Java, C  
+  <br>🗄 <b>Databases:</b> MySQL, MongoDB, SQLite  
+  <br>🛠 <b>Tools:</b> Git, GitHub, VS Code
+</p>
+
 
 
 ## 📊 GitHub Stats
