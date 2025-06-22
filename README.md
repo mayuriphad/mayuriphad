@@ -57,18 +57,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayuriphad/" target="_blank">
-    <img src="https://img.shields.io/badge/💼 LinkedIn-Mayuri%20Phad-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/💼 LinkedIn-Mayuri%20Phad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:mayuriphad5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📬 Gmail-mayuriphad5@gmail.com-d44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/📬 Gmail-mayuriphad5@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://github.com/mayuriphad" target="_blank">
-    <img src="https://img.shields.io/badge/🛠️ GitHub-MayuriPhad-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/🛠️ GitHub-MayuriPhad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="150" alt="Waving Robot" />
-</p>
