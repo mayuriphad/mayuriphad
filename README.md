@@ -1,10 +1,11 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=ffffff&center=true&vCenter=true&width=700&lines=Hello+World!+I%27m+Mayuri+Phad;AI+Engineer+%7C+Full+Stack+Web+Developer;Clean+Code+%26+Smart+Solutions;Let%27s+Innovate+Together!+🚀" alt="Typing Intro" />
-</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="waving hand" />
+</p>
 
-<h3 align="center">🚀 Machine Learning Engineer | Creative Frontend Developer | Full Stack Web Innovator</h3>
+<h1 align="center">Hi there! I'm <strong>Mayuri Phad</strong> 👩‍💻</h1>
 
-<br/>
+<h3 align="center">✨ Machine Learning Engineer | Creative Frontend Developer | Full Stack Web Innovator 🚀</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=FF61A6&width=600&lines=Welcome+to+my+profile!;AI+Explorer+%F0%9F%A4%96;Loves+building+cool+ML+Projects+%F0%9F%9A%80;Let's+connect+%F0%9F%91%8B" alt="Typing SVG" />
