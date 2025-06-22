@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F769B7&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Mayuri+Phad;AI+Explorer+%7C+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Mayuri+Phad.;AI+Engineer+%7C+Full+Stack+Web+Developer;Creating+Smart+Solutions+With+Clean+Code.;Let's+Innovate+Together!+🚀" alt="Typing Intro" />
 </h1>
+
 
 
 
