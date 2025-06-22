@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi there, I'm Mayuri Phad ✨</h1>
-<h3 align="center">🚀 Machine Learning | Frontend Developer | Full Stack Enthusiast</h3>
+<h3 align="center">🚀 Machine Learning Engineer | Creative Frontend Developer | Full Stack Web Innovator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=FF61A6&width=600&lines=Welcome+to+my+profile!;AI+Explorer+%F0%9F%A4%96;Loves+building+cool+ML+Projects+%F0%9F%9A%80;Let's+connect+%F0%9F%91%8B" alt="Typing SVG" />
@@ -97,21 +97,30 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayuriphad&style=for-the-badge&label=Profile+Views&color=8e44ad" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mayuriphad&style=for-the-badge&label=PROFILE+VIEWS&color=8e44ad" alt="Profile Views" />
 </p>
+
+
+## 🔤 Languages Used
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuriphad&layout=compact&theme=tokyonight&langs_count=10" />
+</p>
+
 
 ## 💬 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayuriphad/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:mayuriphad5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://github.com/mayuriphad" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
