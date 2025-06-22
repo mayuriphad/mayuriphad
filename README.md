@@ -74,9 +74,5 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<p align="center">
   ✨ <i>Thanks for stopping by! Let’s innovate and build amazing things together.</i> 🚀
 </p>
