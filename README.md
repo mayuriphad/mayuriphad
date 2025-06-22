@@ -1,77 +1,70 @@
-<h1 align="center">Hi 👋, I'm Mayuri Phad</h1>
-<h3 align="center">An Aspiring Machine Learning Enthusiast!</h3>
+<h1 align="center">✨ Hi there, I'm Mayuri Phad ✨</h1>
+<h3 align="center">🚀 Machine Learning | Frontend Developer | Full Stack Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=FF61A6&width=600&lines=Welcome+to+my+profile!;AI+Explorer+%F0%9F%A4%96;Loves+building+cool+ML+Projects+%F0%9F%9A%80;Frontend+Crafted+with+💖;Let's+connect+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 
 <img src="https://raw.githubusercontent.com/mayuriphad/mayuriphad/output/snake.svg" alt="Snake animation, Under maintenance :(" />
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 🔭 Currently exploring **Machine Learning**
-- 🌱 Learning **Deep Learning** & **AI Model Optimization**
-- 📫 Reach me at: [mayuriphad5@gmail.com](mailto:mayuriphad5@gmail.com)
-- 😄 Pronouns: *She/Her*
-- ⚡ Fun fact: I love working on **AI-powered projects** and experimenting with different ML architectures!
-
----
-
-## 🏆 Notable Achievements
-
-- Published ML research in **IEEE conferences** on:
-  - Drowsiness Detection
-  - Medicinal Plant Identification
-  - Violence Detection
+- 🎓 B.Tech IT @ VIIT Pune | Diploma @ GRWPL Latur
+- 🤖 Currently building cool things in **Machine Learning, Deep Learning, and AI Optimization**
+- 🌱 Learning & exploring: `Transfer Learning`, `Generative AI`, `NLP`, `DL Model Deployment`
+- 📬 Email me at: [mayuriphad5@gmail.com](mailto:mayuriphad5@gmail.com)
+- 💬 Ask me about anything related to AI, Full Stack, or Tech Hacks!
+- 🧠 Pronouns: *She/Her*
+- 🎯 Fun fact: I believe **clean code + creative UI + smart ML = magic! ✨**
 
 ---
 
-## 🛠 Tech Stack
 
-<table align="center">
-  <tr>
-    <td><b>Languages</b></td>
-    <td>Python, C/C++, Java, JavaScript, HTML, CSS</td>
-  </tr>
-  <tr>
-    <td><b>Frameworks</b></td>
-    <td>TensorFlow, Keras, OpenCV, Flask, Streamlit, Node.js, React.js, Express.js</td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>MySQL, MongoDB, SQLite</td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>Git, GitHub, VSCode, Jupyter Notebook</td>
-  </tr>
-</table>
+## 🏆 Highlights
+
+- 📚 **3 IEEE Publications** on:
+  - 🔹 Driver Drowsiness Detection
+  - 🔹 Medicinal Plant Identification
+  - 🔹 Violence Detection in Surveillance Systems
+- 💡 Created smart systems like:
+  - 🛒 **Smart Shopping Cart**
+  - 🌿 **Medicinal Plant Identifier**
+  - 💬 **Hinglish to English NLP App**
+
+---
+
+## 🔧 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,keras,opencv,flask,streamlit,react,nodejs,express,html,css,js,java,c,mongodb,mysql,sqlite,git,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayuriphad&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuriphad&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayuriphad&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuriphad&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mayuriphad&theme=dracula&bg_color=1A1B27&hide_border=true" width="100%"/>
 </p>
 
 ---
 
-## 📫 Connect with Me!
+## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mayuriphad/">
-    <img src="https://img.shields.io/badge/LinkedIn-MayuriPhad-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/mayuriphad">
-    <img src="https://img.shields.io/badge/GitHub-MayuriPhad-black?style=flat&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:mayuriphad5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mayuriphad5@gmail.com-red?style=flat&logo=gmail" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/mayuriphad/"><img src="https://img.shields.io/badge/LinkedIn-Mayuri%20Phad-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:mayuriphad5@gmail.com"><img src="https://img.shields.io/badge/Gmail-mayuriphad5%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/mayuriphad"><img src="https://img.shields.io/badge/GitHub-MayuriPhad-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
 <p align="center">
-  🔥 <i>Thanks for visiting my profile! Let's connect and collaborate on Machine Learning projects!</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+<p align="center">✨ *Thanks for stopping by! Let’s innovate together.* 🚀</p>
