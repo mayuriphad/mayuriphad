@@ -96,9 +96,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayuriphad&style=for-the-badge&label=PROFILE+VIEWS&color=8e44ad" alt="Profile Views" />
-</p>
 
 
 ## 🔤 Languages Used
@@ -111,15 +108,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayuriphad/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+    <img src="https://img.icons8.com/clouds/100/linkedin.png" alt="LinkedIn" height="48"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:mayuriphad5@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" />
+    <img src="https://img.icons8.com/clouds/100/gmail-new.png" alt="Gmail" height="48"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mayuriphad" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" />
+    <img src="https://img.icons8.com/clouds/100/github.png" alt="GitHub" height="48"/>
   </a>
 </p>
 
