@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayuri Phad</h1>
 <h3 align="center">An Aspiring Machine Learning Enthusiast!</h3>
 
-<p align="center">
-  <img src="https://github.com/mayuriphad/mayuriphad/blob/output/github-contribution-grid-snake.gif" alt="snake gif" width="80%" />
-</p>
+<img src="https://raw.githubusercontent.com/mayuriphad/mayuriphad/output/snake.svg" alt="Snake animation, Under maintenance :(" />
 
 ---
 
