@@ -55,24 +55,20 @@
 ---
 ## 💬 Connect with Me
 
-<div align="center">
-
+<p align="center">
   <a href="https://www.linkedin.com/in/mayuriphad/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mayuri%20Phad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/💼 Let's Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn" />
   </a>
-
+  &nbsp;
   <a href="mailto:mayuriphad5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-mayuriphad5@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+    <img src="https://img.shields.io/badge/📬 Say Hi!-D44638?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Gmail" />
   </a>
-
+  &nbsp;
   <a href="https://github.com/mayuriphad" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-MayuriPhad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+    <img src="https://img.shields.io/badge/🛠️ Explore-GitHub-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub" />
   </a>
+</p>
 
-</div>
-
-<br>
-
-<div align="center">
-  <h3>👋 Let's connect, collaborate & create awesome things together!</h3>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abAhXyPjd8PZMec/giphy.gif" width="180" alt="waving robot" />
+</p>
