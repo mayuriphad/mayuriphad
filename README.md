@@ -1,5 +1,7 @@
-<h1 align="center">✨ Hi there, I'm Mayuri Phad ✨</h1>
-<h3 align="center">🚀 Machine Learning Engineer | Creative Frontend Developer | Full Stack Web Innovator</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F769B7&center=true&vCenter=true&width=500&lines=🌟+Hey%2C+I'm+Mayuri+Phad!;🚀+AI+Lover+%7C+Full+Stack+Engineer+%7C+Frontend+Fanatic" alt="Typing Intro" />
+</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=FF61A6&width=600&lines=Welcome+to+my+profile!;AI+Explorer+%F0%9F%A4%96;Loves+building+cool+ML+Projects+%F0%9F%9A%80;Let's+connect+%F0%9F%91%8B" alt="Typing SVG" />
