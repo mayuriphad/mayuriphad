@@ -38,17 +38,18 @@
 
 ## 🚀 My Tech Toolbox
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Languages+%26+Frameworks+I+Love+to+Use" />
-</p>
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,keras,opencv,flask,streamlit,react,nodejs,express,html,css,js,java,c,mongodb,mysql,sqlite,git,vscode" />
+  <img src="assets/gifs/html5.gif" alt="HTML5" width="50"/>
+  <img src="assets/gifs/css3.gif" alt="CSS3" width="50"/>
+  <img src="assets/gifs/javascript.gif" alt="JavaScript" width="50"/>
+  <img src="assets/gifs/react.gif" alt="React" width="50"/>
+  <img src="assets/gifs/nodejs.gif" alt="Node.js" width="50"/>
+  <!-- Add more GIFs as needed -->
 </p>
 
-<p align="center">
-  🧠 Python • 💻 JavaScript • ⚙️ Backend • 🎨 Frontend • 📦 Databases • 🧪 AI/ML • 🚀 Deployment
-</p>
+---
 
 
 ## 📊 GitHub Stats
