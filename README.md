@@ -97,9 +97,10 @@
 <p align="center">
   <!-- GitHub Stats -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayuriphad&show_icons=true&theme=tokyonight&hide_border=true" alt="Mayuri's GitHub Stats" />
+  </p>
 
-  <!-- Top Languages -->
-  <img width="48%" src="https://streak-stats.demolab.com/?user=mayuriphad&theme=tokyonight&hide_border=true" />
+  <p align="center">
+  <img src="https://github-contribution-graph.vercel.app/?user=mayuriphad&theme=github-dark-pink" alt="GitHub Contribution Graph" />
 
 </p>
 
