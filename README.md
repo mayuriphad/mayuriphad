@@ -98,22 +98,20 @@
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayuriphad&show_icons=true&theme=tokyonight" alt="Mayuri's GitHub Stats" />
-  
-  <!-- GitHub Streak Stats -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuriphad&theme=tokyonight" alt="Mayuri's GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayuriphad&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- GitHub Streak Stats (reliable demolab.com source) -->
+  <img width="48%" src="https://streak-stats.demolab.com/?user=mayuriphad&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayuriphad&theme=tokyo-night&bg_color=1A1B27&hide_border=true" width="100%" alt="Mayuri's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayuriphad&theme=tokyo-night&bg_color=1A1B27&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
 <p align="center">
   <!-- Profile View Counter -->
   <img src="https://komarev.com/ghpvc/?username=mayuriphad&style=for-the-badge&color=8e44ad&label=PROFILE+VIEWS" alt="Profile View Counter" />
 </p>
-
 
 
 ## 🔤 Languages Used
