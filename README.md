@@ -95,12 +95,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats Card (static) -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayuriphad&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&disable_animations=true" />
+  <!-- GitHub Stats Card -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayuriphad&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-  <!-- GitHub Streak Card (clean style) -->
-  <img width="48%" src="https://streak-stats.demolab.com?user=mayuriphad&theme=tokyonight&hide_border=true&ring=6A5ACD&fire=FF6EC7&currStreakLabel=FFD700" />
+  <!-- GitHub Streak Card -->
+  <img width="48%" src="https://streak-stats.demolab.com?user=mayuriphad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ## 🔤 Languages Used
 
