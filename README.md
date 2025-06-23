@@ -99,9 +99,10 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayuriphad&show_icons=true&theme=tokyonight&hide_border=true" alt="Mayuri's GitHub Stats" />
   </p>
 
-  <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/?user=mayuriphad&theme=github-dark-pink" alt="GitHub Contribution Graph" />
 
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=mayuriphad&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 
