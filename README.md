@@ -102,9 +102,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayuriphad&theme=dracula&bg_color=1A1B27&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayuriphad&theme=tokyo-night&bg_color=1A1B27&hide_border=true" width="100%" />
 </p>
-S
 
 
 
