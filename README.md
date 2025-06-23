@@ -96,10 +96,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayuriphad&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" />
 
+  <!-- GitHub Streak Stats -->
   <img width="48%" src="https://streak-stats.demolab.com/?user=mayuriphad&theme=tokyonight&hide_border=true&hide_title=true" />
 </p>
+
 
 
 ## 🔤 Languages Used
