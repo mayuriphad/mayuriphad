@@ -100,12 +100,9 @@
   </p>
 
 
-
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mayuriphad&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayuriphad&theme=tokyo-night&bg_color=1A1B27&color=F17FB7&line=F17FB7&point=F17FB7&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
-
-
 
 ## 🔤 Languages Used
 
