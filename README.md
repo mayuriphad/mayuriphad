@@ -94,14 +94,10 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayuriphad&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuriphad&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayuriphad&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=mayuriphad&theme=tokyonight&hide_border=true&ring=FF61A6&fire=FEEF8D&currStreakLabel=FEEF8D" />
 </p>
-
----
 
 
 
