@@ -97,18 +97,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats Card -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayuriphad&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" />
-
-  <!-- GitHub Streak Card (Fully Working) -->
   <img width="48%" src="https://streak-stats.demolab.com/?user=mayuriphad&theme=tokyonight&hide_border=true&hide_title=true" />
 </p>
-
-<p align="center">
-  <!-- Profile View Counter -->
-  <img src="https://komarev.com/ghpvc/?username=mayuriphad&style=for-the-badge&color=8e44ad&label=PROFILE+VIEWS" />
-</p>
-S
 
 ## 🔤 Languages Used
 
