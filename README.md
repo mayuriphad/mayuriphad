@@ -95,12 +95,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats Card -->
+  <!-- GitHub Stats -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayuriphad&show_icons=true&theme=tokyonight&hide_border=true" alt="Mayuri's GitHub Stats" />
 
-  <!-- GitHub Streak Card -->
-  <img width="48%" src="https://streak-stats.demolab.com/?user=mayuriphad&theme=tokyonight&hide_border=true" alt="Mayuri's GitHub Streak" />
+  <!-- Top Languages -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuriphad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
 
 
 ## 🔤 Languages Used
