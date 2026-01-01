@@ -21,7 +21,7 @@
 
 - 🎓 B.Tech IT @ VIIT Pune | Diploma @ GRWPL Latur
 - 🤖 Passionate about **Machine Learning, Deep Learning, and AI Optimization**
-- 🌱 Constantly exploring: `Transfer Learning`, `Generative AI`, `NLP`, `DL Deployment`
+- 🌱 Constantly exploring: MLOps, Hadoop, Apache Spark, Generative AI, Agentic AI
 - 📬 Contact: [mayuriphad5@gmail.com](mailto:mayuriphad5@gmail.com)
 - 💬 Let’s chat about AI, Full Stack, or your next big idea!
 - ✨ Fun fact: I believe **clean code + creative UI + smart ML = 💡 magic!**
