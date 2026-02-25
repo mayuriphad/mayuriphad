@@ -14,7 +14,7 @@
   <a href="https://github.com/mayuriphad"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
@@ -27,7 +27,7 @@ Certifications: AWS Cloud Foundations | Meta Backend Developer | ML & DL (Udemy)
 Status: Open to Full-Time Opportunities 🚀
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Arsenal
 
@@ -105,7 +105,7 @@ Status: Open to Full-Time Opportunities 🚀
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30"> Achievements & Certifications
 
@@ -117,7 +117,7 @@ Status: Open to Full-Time Opportunities 🚀
 | 🧠 | **ML & Deep Learning** | [Certified in Python & R – Udemy](https://drive.google.com/file/d/11OhvPSiFMK-SUqpWhiBpGdsqKPpvee-M/view?usp=drive_link) |
 | 🏢 | **Industry Experience** | Software Developer Intern @ INGenious Technohub — 500+ records automated |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/xUPGcJU55vuGjuMBmE/giphy.gif" width="30"> IEEE Publications
 
@@ -127,7 +127,7 @@ Status: Open to Full-Time Opportunities 🚀
 | 2️⃣ | [**Automatic Identification of Medicinal Plants with Transfer Learning**](https://ieeexplore.ieee.org/abstract/document/11020498) | INCIP 2025 · IEEE |
 | 3️⃣ | [**Violence Detection in Surveillance Systems Using MobileNetV2**](https://ieeexplore.ieee.org/abstract/document/10894987) | PUNECON 2024 · IEEE |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Featured Projects
 
@@ -226,7 +226,7 @@ Status: Open to Full-Time Opportunities 🚀
 </table>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
 
@@ -247,7 +247,7 @@ Status: Open to Full-Time Opportunities 🚀
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayuriphad&custom_title=Mayuri's%20Contribution%20Graph&theme=tokyo-night&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&hide_border=true" width="100%"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Footer -->
 <div align="center">
@@ -256,9 +256,21 @@ Status: Open to Full-Time Opportunities 🚀
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mayuriphad/"><img src="https://img.shields.io/badge/-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:mayuriphad5@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://mayurip-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-My_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mayuriphad/" target="_blank">
+  <img src="https://img.icons8.com/clouds/100/linkedin.png" alt="LinkedIn" height="55"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:mayuriphad5@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/clouds/100/gmail-new.png" alt="Gmail" height="55"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/mayuriphad" target="_blank">
+  <img src="https://img.icons8.com/clouds/100/github.png" alt="GitHub" height="55"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://mayurip-portfolio.netlify.app/" target="_blank">
+  <img src="https://img.icons8.com/clouds/100/domain.png" alt="Portfolio" height="55"/>
+</a>
 
 <br/><br/>
 
