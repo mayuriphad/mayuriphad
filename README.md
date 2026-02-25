@@ -232,7 +232,7 @@ Status: Open to Full-Time Opportunities 🚀
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayuriphad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayuriphad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=mayuriphad&theme=tokyonight&hide_border=true&background=0D1117&ring=A960FF&fire=A960FF&currStreakLabel=A960FF" />
 
 </div>
@@ -240,12 +240,12 @@ Status: Open to Full-Time Opportunities 🚀
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuriphad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=c9d1d9&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayuriphad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayuriphad&custom_title=Mayuri's%20Contribution%20Graph&theme=tokyo-night&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayuriphad&custom_title=Mayuri's%20Contribution%20Graph&theme=tokyo-night&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&hide_border=true&area=true&area_color=A960FF" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
