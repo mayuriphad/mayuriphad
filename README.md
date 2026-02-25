@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mayuri Phad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align="center">Hi, I'm Mayuri Phad 👩‍💻</h1>
 <h3 align="center">ML Engineer | Software Developer</h3>
 
 <!-- Snake Animation -->
@@ -8,10 +8,10 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/mayuriphad/" target="_blank"><img src="https://img.icons8.com/clouds/100/linkedin.png" alt="LinkedIn" height="55"/></a>&nbsp;&nbsp;
-  <a href="mailto:mayuriphad5@gmail.com" target="_blank"><img src="https://img.icons8.com/clouds/100/gmail-new.png" alt="Gmail" height="55"/></a>&nbsp;&nbsp;
-  <a href="https://mayurip-portfolio.netlify.app/" target="_blank"><img src="https://img.icons8.com/clouds/100/domain.png" alt="Portfolio" height="55"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/mayuriphad" target="_blank"><img src="https://img.icons8.com/clouds/100/github.png" alt="GitHub" height="55"/></a>
+  <a href="https://www.linkedin.com/in/mayuriphad/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="45"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mayuriphad5@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="45"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://mayurip-portfolio.netlify.app/" target="_blank"><img src="https://img.icons8.com/color/48/portfolio.png" alt="Portfolio" height="45"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mayuriphad" target="_blank"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" height="45"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -20,7 +20,7 @@
 
 ```yaml
 Name: Mayuri Phad
-Education: B.Tech IT @ VIIT Pune (GPA: 8.13) | Diploma in CE (87.77%)
+Education: B.Tech IT @ VIIT Pune (GPA: 8.13)
 Role: ML Engineer & Full Stack Developer
 Research: 3 IEEE Papers in Computer Vision, NLP & Transfer Learning
 Certifications: AWS Cloud Foundations | Meta Backend Developer | ML & DL (Udemy)
@@ -232,8 +232,8 @@ Status: Open to Full-Time Opportunities 🚀
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayuriphad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuriphad&theme=tokyonight&hide_border=true&background=0D1117&ring=A960FF&fire=A960FF&currStreakLabel=A960FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayuriphad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=mayuriphad&theme=tokyonight&hide_border=true&background=0D1117&ring=A960FF&fire=A960FF&currStreakLabel=A960FF" />
 
 </div>
 
@@ -256,21 +256,10 @@ Status: Open to Full-Time Opportunities 🚀
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mayuriphad/" target="_blank">
-  <img src="https://img.icons8.com/clouds/100/linkedin.png" alt="LinkedIn" height="55"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:mayuriphad5@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/clouds/100/gmail-new.png" alt="Gmail" height="55"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/mayuriphad" target="_blank">
-  <img src="https://img.icons8.com/clouds/100/github.png" alt="GitHub" height="55"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://mayurip-portfolio.netlify.app/" target="_blank">
-  <img src="https://img.icons8.com/clouds/100/domain.png" alt="Portfolio" height="55"/>
-</a>
+<a href="https://www.linkedin.com/in/mayuriphad/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="45"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:mayuriphad5@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="45"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/mayuriphad" target="_blank"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" height="45"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://mayurip-portfolio.netlify.app/" target="_blank"><img src="https://img.icons8.com/color/48/portfolio.png" alt="Portfolio" height="45"/></a>
 
 <br/><br/>
 
