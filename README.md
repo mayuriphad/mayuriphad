@@ -8,10 +8,10 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/mayuriphad/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="mailto:mayuriphad5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://mayurip-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/mayuriphad"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mayuriphad/" target="_blank"><img src="https://img.icons8.com/clouds/100/linkedin.png" alt="LinkedIn" height="55"/></a>&nbsp;&nbsp;
+  <a href="mailto:mayuriphad5@gmail.com" target="_blank"><img src="https://img.icons8.com/clouds/100/gmail-new.png" alt="Gmail" height="55"/></a>&nbsp;&nbsp;
+  <a href="https://mayurip-portfolio.netlify.app/" target="_blank"><img src="https://img.icons8.com/clouds/100/domain.png" alt="Portfolio" height="55"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/mayuriphad" target="_blank"><img src="https://img.icons8.com/clouds/100/github.png" alt="GitHub" height="55"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
