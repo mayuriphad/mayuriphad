@@ -1,29 +1,21 @@
 <div align="center">
-
 <h1>MAYURI PHAD</h1>
 <h3>AI/ML Engineer &nbsp;·&nbsp; Full-Stack Developer</h3>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=B0B0B0&center=true&vCenter=true&width=700&height=40&lines=Computer+Vision+%E2%80%A2+NLP+%E2%80%A2+LLMs+%E2%80%A2+Agentic+AI;Turning+ideas+into+production+ML+systems;Open+to+Full-Time+ML+%2F+SDE+Roles" alt="Typing SVG" />
-
 <br/>
-
 <a href="https://www.linkedin.com/in/mayuriphad/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mayuriphad5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://mayurip-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2b2b2b?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/mayuriphad" target="_blank"><img src="https://img.shields.io/badge/GitHub-2b2b2b?style=for-the-badge&logo=github&logoColor=white" /></a>
-
 <br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
-
 </div>
 
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2b2b2b&height=2&section=header" width="100%"/>
 
 ## PROFILE
@@ -182,7 +174,6 @@ LangChain, LangGraph, and RAG — on top of a solid classical ML/CV foundation.
 <a href="https://github.com/mayuriphad/Driver-Drowsiness-Detection-Using-MobileNetV2-and-Deep-Learning-.git"><img src="https://img.shields.io/badge/Repository-000000?style=flat-square&logo=github&logoColor=white"/></a>
 
 MobileNetV2 · TensorFlow · OpenCV · Pygame
-
 Real-time drowsiness detection on webcam feeds using transfer learning, with audio-visual safety alerts. IEEE published.
 
 </td>
@@ -193,7 +184,6 @@ Real-time drowsiness detection on webcam feeds using transfer learning, with aud
 <a href="https://github.com/mayuriphad/Medical-plant-identification-.git"><img src="https://img.shields.io/badge/Repository-000000?style=flat-square&logo=github&logoColor=white"/></a>
 
 MobileNetV2 · Keras · Flask · Google API
-
 93% accuracy across 40 plant species, served through a real-time Flask web app. IEEE published.
 
 </td>
@@ -207,7 +197,6 @@ MobileNetV2 · Keras · Flask · Google API
 <a href="https://github.com/mayuriphad/Task-Management-Application"><img src="https://img.shields.io/badge/Code-000000?style=flat-square&logo=github&logoColor=white"/></a>
 
 React · TypeScript · Express.js · MongoDB
-
 Full-stack app with JWT auth, role-based access, task prioritization, and Framer Motion animations.
 
 </td>
@@ -219,7 +208,6 @@ Full-stack app with JWT auth, role-based access, task prioritization, and Framer
 <a href="https://github.com/Team-Stunner/Health-Bites-GFG"><img src="https://img.shields.io/badge/Code-000000?style=flat-square&logo=github&logoColor=white"/></a>
 
 React.js · Node.js · GenAI · Auth0
-
 GenAI-powered food recognition and personalized meal plans, with Auth0 OAuth 2.0 and 10+ RESTful endpoints.
 
 </td>
@@ -233,7 +221,6 @@ GenAI-powered food recognition and personalized meal plans, with Auth0 OAuth 2.0
 <a href="https://github.com/mayuriphad/Hinglish2English-NLP-main.git"><img src="https://img.shields.io/badge/Code-000000?style=flat-square&logo=github&logoColor=white"/></a>
 
 NLP · Flask · SQLite · JavaScript
-
 Custom NLP pipeline with a 450+ entry dictionary, idiom handling, and browser-native voice input/output.
 
 </td>
@@ -245,7 +232,6 @@ Custom NLP pipeline with a 450+ entry dictionary, idiom handling, and browser-na
 <a href="https://github.com/mayuriphad/Chat-App-with-Sentiment-Analysis.git"><img src="https://img.shields.io/badge/Code-000000?style=flat-square&logo=github&logoColor=white"/></a>
 
 React.js · Firebase · Chart.js · Sentiment.js
-
 Real-time chat with live sentiment analysis dashboards and exportable reports.
 
 </td>
@@ -257,12 +243,9 @@ Real-time chat with live sentiment analysis dashboards and exportable reports.
 ## GITHUB ACTIVITY
 
 <div align="center">
-
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayuriphad&show_icons=true&theme=graywhite&hide_border=true&bg_color=0D0D0D&title_color=C9C9C9&icon_color=8A8A8A&text_color=A0A0A0&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=mayuriphad&theme=dark&hide_border=true&background=0D0D0D&ring=8A8A8A&fire=C9C9C9&currStreakLabel=C9C9C9&sideLabels=A0A0A0&currStreakNum=FFFFFF&sideNums=A0A0A0&dates=6E6E6E" />
-
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayuriphad&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=C9C9C9&text_color=A0A0A0" width="45%" />
-
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayuriphad&custom_title=Contribution%20Activity&theme=github-compact&bg_color=0D0D0D&color=A0A0A0&line=C9C9C9&point=FFFFFF&hide_border=true&area=true&area_color=2b2b2b" width="100%"/>
@@ -273,22 +256,28 @@ Real-time chat with live sentiment analysis dashboards and exportable reports.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2b2b2b&height=2&section=header" width="100%"/>
 
-<div align="center">
+## CURRENTLY
 
+```
+> learning     multi-agent orchestration with LangGraph
+> building     a RAG pipeline over unstructured research PDFs
+> reading      papers on retrieval-augmented reasoning
+> fun fact     all 3 IEEE papers were built on the same MobileNetV2 backbone,
+               tuned for three completely different problems
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2b2b2b&height=2&section=header" width="100%"/>
+
+<div align="center">
 <h3>OPEN TO FULL-TIME OPPORTUNITIES IN ML & SOFTWARE DEVELOPMENT</h3>
 
 If you're building in computer vision, NLP, or applied ML — or hiring for it — let's talk.
-
 <br/>
-
 <a href="https://www.linkedin.com/in/mayuriphad/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mayuriphad5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/mayuriphad" target="_blank"><img src="https://img.shields.io/badge/GitHub-2b2b2b?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://mayurip-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2b2b2b?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-
 <br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=mayuriphad&label=Profile+Views&color=2b2b2b&style=flat-square" />
 <img src="https://img.shields.io/github/followers/mayuriphad?label=Followers&style=flat-square&color=2b2b2b" />
-
 </div>
