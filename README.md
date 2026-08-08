@@ -18,7 +18,7 @@
 - <b>Publications & Impact</b> -----------------------------------------------------
 . <b>IEEE Papers:</b> ................. 3 Published (Computer Vision, NLP, Transfer Learning)
 - <b>System Status</b> ------------------------------------------------------------
-. <b>Deployment Target:</b> ........... Full-Time ML Engineer / SDE Roles
+. <b>Deployment Target:</b> ........... Full-Time AI/ML Engineer / SDE Roles
 . <b>Availability:</b> ................ Immediate / Open to Opportunities
 </pre>
       </td>
