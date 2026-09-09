@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mayuri Phad 👋</h1>
+﻿<h1 align="center">Hi, I'm Mayuri Phad 👋</h1>
 
 <div align="center">
   <table>
@@ -36,6 +36,7 @@
 
 Beyond my own projects, I contribute fixes and features upstream to real-world open source projects:
 
+- **[facebookresearch/faiss](https://github.com/facebookresearch/faiss)** — Fix range_search_max_results to respect all similarity metrics
 - **[unslothai/unsloth](https://github.com/unslothai/unsloth)** — Fix Accelerator.distributed_type bound-method bug on single-GPU patch
 - **[huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers)** — Fix duplicated/NaN results from semantic_search_usearch when corpus is smaller than top_k
 - **[mlflow/mlflow](https://github.com/mlflow/mlflow)** — Fix integer/varchar type mismatch in WorkspaceAwareSqlAlchemyStore experiment_id filters
@@ -43,3 +44,4 @@ Beyond my own projects, I contribute fixes and features upstream to real-world o
 - **[priya-sundaram-dev/whoosh](https://github.com/priya-sundaram-dev/whoosh)** — Support MCP Python SDK 2.x in whoosh.mcp
 - **[humphd/have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning)** — docs: fix spelling errors
 - **[Jaswanth-Kumar-2007/OpenSource-Hunt](https://github.com/Jaswanth-Kumar-2007/OpenSource-Hunt)** — Fix typo in footer: Larn -> Learn
+
