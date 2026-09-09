@@ -31,3 +31,15 @@
   <b><a href="mailto:mayuriphad5@gmail.com">[ 📧 Email ]</a></b> &nbsp;•&nbsp;
   <b><a href="https://mayurip-portfolio.netlify.app/">[ 🌐 Portfolio ]</a></b>
 </p>
+
+## 🔭 Open Source Contributions
+
+Beyond my own projects, I contribute fixes and features upstream to real-world open source projects:
+
+- **[unslothai/unsloth](https://github.com/unslothai/unsloth)** — Fix Accelerator.distributed_type bound-method bug on single-GPU patch
+- **[huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers)** — Fix duplicated/NaN results from semantic_search_usearch when corpus is smaller than top_k
+- **[mlflow/mlflow](https://github.com/mlflow/mlflow)** — Fix integer/varchar type mismatch in WorkspaceAwareSqlAlchemyStore experiment_id filters
+- **[dmlc/xgboost](https://github.com/dmlc/xgboost)** — Fix XGBClassifier.predict_proba returning invalid values for objective binary:logitraw
+- **[priya-sundaram-dev/whoosh](https://github.com/priya-sundaram-dev/whoosh)** — Support MCP Python SDK 2.x in whoosh.mcp
+- **[humphd/have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning)** — docs: fix spelling errors
+- **[Jaswanth-Kumar-2007/OpenSource-Hunt](https://github.com/Jaswanth-Kumar-2007/OpenSource-Hunt)** — Fix typo in footer: Larn -> Learn
