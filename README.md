@@ -34,7 +34,7 @@
 
 ## Open Source Contributions
 
-Beyond my own projects, I contribute fixes and features upstream to real-world open source projects:
+When I'm not building my own systems, I'm actively collaborating with the global community and pushing code to impactful open-source repositories:
 
 <!-- MANUALLY_ADDED_PRS -->
 - **[facebookresearch/faiss](https://github.com/facebookresearch/faiss)** - Fix range_search_max_results to respect all similarity metrics
@@ -49,3 +49,4 @@ Beyond my own projects, I contribute fixes and features upstream to real-world o
 - **[humphd/have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning)** — docs: fix spelling errors
 - **[Jaswanth-Kumar-2007/OpenSource-Hunt](https://github.com/Jaswanth-Kumar-2007/OpenSource-Hunt)** — Fix typo in footer: Larn -> Learn
 <!-- END_PRS -->
+
