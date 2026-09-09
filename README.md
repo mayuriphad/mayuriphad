@@ -32,7 +32,7 @@
   <b><a href="https://mayurip-portfolio.netlify.app/">[ 🌐 Portfolio ]</a></b>
 </p>
 
-## 🔭 Open Source Contributions
+## Open Source Contributions
 
 Beyond my own projects, I contribute fixes and features upstream to real-world open source projects:
 
