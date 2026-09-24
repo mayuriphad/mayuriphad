@@ -32,12 +32,7 @@
   <b><a href="https://mayurip-portfolio.netlify.app/">[ 🌐 Portfolio ]</a></b>
 </p>
 
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayuriphad&show_icons=true&theme=transparent&hide_border=true&title_color=34d399&icon_color=34d399&text_color=a3a3a3" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuriphad&layout=compact&theme=transparent&hide_border=true&title_color=34d399&text_color=a3a3a3" height="150" />
-</div>
-<br>
+
 
 <h3 align="center">✨ recent ships</h3>
 <p align="center"><i>building in public.</i></p>
