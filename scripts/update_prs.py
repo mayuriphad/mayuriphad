@@ -1,18 +1,23 @@
-﻿import os
+import os
 import re
 import subprocess
 import json
+from datetime import datetime
 
 def get_merged_prs():
-    # Fetch latest 20 merged PRs
-    # Using gh CLI, which uses the GITHUB_TOKEN environment variable implicitly
-    cmd = ['gh', 'search', 'prs', '--author', '@me', '--merged', '--limit', '20', '--json', 'url,title,repository']
+    cmd = ['gh', 'search', 'prs', '--author', '@me', '--merged', '--limit', '10', '--json', 'url,title,repository,closedAt,number']
     result = subprocess.run(cmd, capture_output=True, text=True)
     if result.returncode != 0:
         print("Error fetching PRs:", result.stderr)
         return []
     
     return json.loads(result.stdout)
+
+def format_date(date_str):
+    if not date_str:
+        return ""
+    dt = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+    return dt.strftime('%b %d').lower()
 
 def main():
     prs = get_merged_prs()
@@ -21,33 +26,56 @@ def main():
         print("No PRs found or error occurred.")
         return
 
-    # Format the PRs
-    pr_lines = []
+    table = [
+        '<div align="center">',
+        '  <table>',
+        '    <tr>',
+        '      <th align="left">repo</th>',
+        '      <th align="left">pr</th>',
+        '      <th align="center">date</th>',
+        '    </tr>'
+    ]
+
     for pr in prs:
-        repo_name = pr['repository']['nameWithOwner']
+        repo_name = pr['repository']['name']
         title = pr['title']
+        if len(title) > 55:
+            title = title[:52] + '...'
+            
         url = pr['url']
-        # Remove the /pull/... part for the repo link
         repo_url = url.split('/pull/')[0]
-        pr_lines.append(f"- **[{repo_name}]({repo_url})** — {title}")
+        date = format_date(pr.get('closedAt'))
+        
+        table.append('    <tr>')
+        table.append(f'      <td><a href="{repo_url}"><b>{repo_name}</b></a></td>')
+        table.append(f'      <td><a href="{url}">{title.lower()}</a></td>')
+        table.append(f'      <td align="right"><i>{date}</i></td>')
+        table.append('    </tr>')
+        
+    table.append('  </table>')
+    table.append('</div>')
     
-    new_prs_section = '\n'.join(pr_lines) + '\n'
+    new_prs_section = '\n'.join(table)
 
     with open('README.md', 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Replace content between markers
     start_marker = "<!-- START_PRS -->"
     end_marker = "<!-- END_PRS -->"
     
-    pattern = re.compile(rf"({start_marker}).*?({end_marker})", re.DOTALL)
-    
-    new_content = pattern.sub(rf"\1\n{new_prs_section}\2", content)
-    
-    with open('README.md', 'w', encoding='utf-8') as f:
-        f.write(new_content)
-    
-    print("README.md updated with latest PRs!")
+    # We will use simple string splitting to replace the content
+    if start_marker in content and end_marker in content:
+        before = content.split(start_marker)[0]
+        after = content.split(end_marker)[1]
+        
+        new_content = f"{before}{start_marker}\n{new_prs_section}\n{end_marker}{after}"
+        
+        with open('README.md', 'w', encoding='utf-8') as f:
+            f.write(new_content)
+        
+        print("README.md updated with latest PRs!")
+    else:
+        print("Markers not found in README.md")
 
 if __name__ == '__main__':
     main()
