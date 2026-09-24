@@ -1,9 +1,9 @@
-﻿name: Update Merged PRs
+name: Update Merged PRs
 
 on:
   schedule:
-    # Run at 00:00 every day
-    - cron: '0 0 * * *'
+    # Run every hour to quickly catch new merges
+    - cron: '0 * * * *'
   workflow_dispatch: # Allow manual trigger
 
 jobs:
@@ -19,7 +19,7 @@ jobs:
 
       - name: Fetch PRs and update README
         env:
-          GH_TOKEN: $\{{ secrets.GH_PAT }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           python scripts/update_prs.py
 
