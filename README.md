@@ -40,7 +40,7 @@
 <br>
 
 <h3 align="center">✨ recent ships</h3>
-<p align="center"><i>automated feed of merged pull requests to open source</i></p>
+<p align="center"><i>building in public.</i></p>
 
 <!-- START_PRS -->
 <div align="center">
