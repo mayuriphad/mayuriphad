@@ -1,9 +1,4 @@
 <h1 align="center">Hi, I'm Mayuri Phad 👋</h1>
-<p align="center">
-  <a href="https://github.com/mayuriphad">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Building+Agentic+AI+%26+LLM+apps;Computer+Vision+%2B+NLP;3x+IEEE+Published;Open+to+full-time+roles" alt="Typing SVG" />
-  </a>
-</p>
 
 <div align="center">
   <table>
