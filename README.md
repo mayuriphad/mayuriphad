@@ -1,41 +1,30 @@
 <h1 align="center">Hi, I'm Mayuri Phad 👋</h1>
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="100%">
-<pre>
-<b>mayuri@neural-core</b> -----------------------------------------------------------
-. <b>Machine:</b> ..................... AI/ML Engineer
-. <b>Runtime:</b> ..................... TCS (AI/ML Project Intern)
-. <b>Base.System:</b> ................. B.Tech IT, VIIT Pune (CGPA 8.4)
-. <b>Core.Focus:</b> .................. [Agentic AI, Computer Vision, NLP, LLMs]
-.
-. <b>Pipelines.GenAI:</b> ............. Agentic Workflows, LangChain, LangGraph, AutoGen, RAG
-. <b>Pipelines.Vision&ML:</b> .......... OpenCV, PyTorch, TensorFlow, Keras, Transfer Learning
-. <b>Pipelines.FullStack:</b> ......... React, Node.js, TypeScript, MongoDB
-. <b>Environment:</b> ................. VS Code, Linux
-- <b>Publications & Impact</b> -----------------------------------------------------
-. <b>IEEE Papers:</b> ................. 3 Published (Computer Vision, NLP, Transfer Learning)
-- <b>System Status</b> ------------------------------------------------------------
-. <b>Deployment Target:</b> ........... Full-Time AI/ML Engineer / SDE Roles
-. <b>Availability:</b> ................ Immediate / Open to Opportunities
-</pre>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center"><b>AI/ML Engineer</b> · Agentic AI · Computer Vision · NLP · LLMs</p>
 
 <p align="center">
-  <b><a href="https://www.linkedin.com/in/mayuriphad/">[ 🔗 LinkedIn ]</a></b> &nbsp;•&nbsp;
-  <b><a href="mailto:mayuriphad5@gmail.com">[ 📧 Email ]</a></b> &nbsp;•&nbsp;
-  <b><a href="https://mayurip-portfolio.netlify.app/">[ 🌐 Portfolio ]</a></b>
+  <a href="https://www.linkedin.com/in/mayuriphad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mayuriphad5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://mayurip-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Portfolio"></a>
 </p>
 
+## About
 
+- 🧠 AI/ML Project Intern at **TCS**
+- 🎓 B.Tech IT, **VIIT Pune** (CGPA 8.4)
+- 📄 **3 IEEE papers** published (Computer Vision, NLP, Transfer Learning)
+- 🛠️ Contributing fixes to open-source ML tooling (mlflow, xgboost, sentence-transformers, unsloth)
+- 🚀 Open to **full-time AI/ML Engineer / SDE roles** (available immediately)
 
-<h3 align="center">✨ recent ships</h3>
-<p align="center"><i>building in public.</i></p>
+## Tech Stack
+
+| Area | Tools |
+|------|-------|
+| **GenAI** | LangChain, LangGraph, AutoGen, RAG, agentic workflows |
+| **ML & Vision** | PyTorch, TensorFlow, Keras, OpenCV, transfer learning |
+| **Full Stack** | React, Node.js, TypeScript, MongoDB |
+| **Environment** | Python, Linux, VS Code, Git |
+
+## ✨ Recent Open-Source Contributions
 
 <!-- START_PRS -->
 <div align="center">
