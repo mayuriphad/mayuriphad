@@ -31,3 +31,7 @@
   <b><a href="mailto:mayuriphad5@gmail.com">[ 📧 Email ]</a></b> &nbsp;•&nbsp;
   <b><a href="https://mayurip-portfolio.netlify.app/">[ 🌐 Portfolio ]</a></b>
 </p>
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="100%" />
+</p>
