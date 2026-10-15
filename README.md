@@ -27,11 +27,7 @@
 </div>
 
 <p align="center">
-  <b><a href="https://www.linkedin.com/in/mayuriphad/">[ 🔗 LinkedIn ]</a></b> &nbsp;•&nbsp;
-  <b><a href="mailto:mayuriphad5@gmail.com">[ 📧 Email ]</a></b> &nbsp;•&nbsp;
-  <b><a href="https://mayurip-portfolio.netlify.app/">[ 🌐 Portfolio ]</a></b>
-</p>
-
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="100%" />
+  <a href="https://www.linkedin.com/in/mayuriphad/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>&nbsp;&nbsp;
+  <a href="mailto:mayuriphad5@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://mayurip-portfolio.netlify.app/"><img src="https://skillicons.dev/icons?i=netlify" alt="Portfolio" height="40" /></a>
 </p>
